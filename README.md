@@ -24,7 +24,7 @@ Estou sempre aberto à colaboração e a novas oportunidades de contribuir para 
 
 📚 
 
-📫 [LinkedIn]((https://www.linkedin.com/in/rogerio-sobral-ribeiro-49228552/))
+📫 [LinkedIn][(https://www.linkedin.com/in/rogerio-sobral-ribeiro-49228552/)]
 
 ---
 
