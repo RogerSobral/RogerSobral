@@ -4,7 +4,23 @@
 
 <h3 align="center"> About me </h3>
 
-🖥️ Change text
+🖥️ <h3>Inglês</h3>
+Hello, my name is Rogério Sobral Ribeiro, and I am a dedicated educator with a passion for sharing knowledge and empowering students to achieve their full potential. I am proud to serve as a faculty member at Senac and the University of Guarulhos, where I teach courses in technology, project management, and related fields.
+
+My academic background reflects my commitment to continuous learning and expertise in diverse areas. I hold a degree in Analysis and Systems Development, a postgraduate degree in Artificial Intelligence, a Technologist degree in Commercial Management, and another postgraduate degree in Project Management. This multidisciplinary education enables me to bring a broad perspective to the classroom, combining technical, managerial, and innovative approaches to problem-solving.
+
+As an educator, my focus is on fostering practical skills and critical thinking, preparing students to excel in their careers and adapt to an ever-changing professional landscape. I am deeply committed to integrating real-world scenarios into my teaching, making learning relevant and impactful for my students.
+
+I am always open to collaboration and new opportunities to contribute to meaningful educational projects.
+
+🖥️ <h3>Português</h3>
+Olá, meu nome é Rogério Sobral Ribeiro e sou um educador dedicado e apaixonado por compartilhar conhecimento e capacitar os alunos para que alcancem todo o seu potencial. Tenho orgulho de atuar como docente do Senac e da Universidade de Guarulhos, onde ministro cursos de tecnologia, gerenciamento de projetos e áreas afins.
+
+Minha formação acadêmica reflete meu compromisso com o aprendizado contínuo e especialização em diversas áreas. Sou formada em Análise e Desenvolvimento de Sistemas, pós-graduada em Inteligência Artificial, tecnóloga em Gestão Comercial e outra pós-graduada em Gestão de Projetos. Essa formação multidisciplinar me permite trazer uma perspectiva ampla para a sala de aula, combinando abordagens técnicas, gerenciais e inovadoras para a resolução de problemas.
+
+Como educador, meu foco é promover habilidades práticas e pensamento crítico, preparando os alunos para se destacarem em suas carreiras e se adaptarem a um cenário profissional em constante mudança. Estou profundamente comprometido em integrar cenários do mundo real em meu ensino, tornando o aprendizado relevante e impactante para meus alunos.
+
+Estou sempre aberto à colaboração e a novas oportunidades de contribuir para projetos educacionais significativos.
 
 📚 
 
