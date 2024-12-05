@@ -1,6 +1,7 @@
 | ![RogerSobral GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerSobral&show_icons=true&theme=dracula) | ![RogerSobral most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerSobral&layout=compact&theme=dracula&hide_border=true) |
 | --- | --- |
 
+<h3 align="center"> My technologies </h3>
 <div >
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50em" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50em"/>
@@ -54,7 +55,7 @@ Estou sempre aberto à colaboração e a novas oportunidades de contribuir para 
 
 ---
 
-<h3 align="center"> My technologies </h3>
+
 
 
 
